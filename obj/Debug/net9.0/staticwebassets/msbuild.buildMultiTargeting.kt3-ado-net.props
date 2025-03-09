@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\kt3-ado-net.props" />
+</Project>
