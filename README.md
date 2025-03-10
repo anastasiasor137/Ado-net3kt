@@ -1,3 +1,5 @@
+запуск приложения dotnet run
+
 проверка контроллеров-
 http://localhost:****/Test/Html для действия Html
 http://localhost:****/Test/Json для действия Json
